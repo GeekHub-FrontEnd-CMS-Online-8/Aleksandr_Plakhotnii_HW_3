@@ -1,0 +1,36 @@
+#wrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+table {
+    border-color: #afafaf #444444 #444444 #afafaf;
+    margin-top: 20px;
+}
+
+td, th {
+    border-color: #444444 #afafaf #afafaf #444444;
+    padding: 4px 0 4px 4px;
+}
+
+table, td, th {
+    border: 1px solid;
+}
+
+.top {
+    width: 1024px;
+}
+
+.middle, .bottom {
+    width: 581px;
+    margin: 20px auto 0;
+}
+
+.middle tbody tr td:first-child {
+    font-weight: bold;
+}
+
+.bottom tbody tr td {
+    vertical-align: top;
+}
+

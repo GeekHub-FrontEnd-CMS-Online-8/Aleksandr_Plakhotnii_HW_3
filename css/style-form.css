@@ -24,12 +24,7 @@ legend, span {
     font-weight: bold;
 }
 
-.more-about-yourself input[type="date"] {
-    width: 168px;
-    height: 17px;
-}
-
-.more-about-yourself input[type="date"], .more-about-yourself input[type="text"] {
+.more-about-yourself input[type="text"] {
     margin-right: 7px;
 }
 
